@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { Eye, EyeOff, Check, X, Info, Square, CheckCircle2 } from "lucide-react";
+import { Eye, EyeOff, Check, X, Info, CheckCircle2 } from "lucide-react";
 import logo from '../assets/Vector (4).png'
 import logo2 from '../assets/Image (51).png'
 
